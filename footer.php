@@ -78,7 +78,7 @@
 
     <!-- Logo & Description -->
     <div class="footer-box logo-box">
-      <img src="uploaded_img/images/Screenshot 2025-06-30 040220_prev_ui.png" alt="Bloom & Petal Logo" class="footer-logo">
+      <img src="images/Screenshot 2025-06-30 040220_prev_ui.png" alt="Bloom & Petal Logo" class="footer-logo">
       <p>Bringing nature's beauty to your doorstep with handcrafted floral arrangements for every occasion.</p>
       <div class="social-icons">
         <a href="#"><i class="fab fa-facebook-f"></i></a>

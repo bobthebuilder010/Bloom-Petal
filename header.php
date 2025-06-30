@@ -150,7 +150,7 @@ if(isset($message)){
 
   
   <a href="home.php" class="logo">
-    <img src="uploaded_img/images/Screenshot 2025-06-30 040220_prev_ui.png" alt="Bloom & Petal Logo">
+    <img src="images/Screenshot 2025-06-30 040220_prev_ui.png" alt="Bloom & Petal Logo">
   </a>
 
   <nav class="navbar">
